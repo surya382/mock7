@@ -1,0 +1,44 @@
+{
+    "users": [
+      {
+        "username": "surya",
+        "email": "surya@gmail.com",
+        "password": "surya",
+        "id": 1
+      },
+      {
+        "username": "yam",
+        "email": "yam@gmail.com",
+        "password": "yam",
+        "id": 2
+      },
+      {
+        "username": "nam",
+        "email": "nam@gmail.com",
+        "password": "nam",
+        "id": 3
+      }
+    ],
+    "companies": [
+      {
+        "company_logo": "https://img-getpocket.cdn.mozilla.net/296x148/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F088042eb-8368-43cc-87ea-092286978e94.jpeg",
+        "company_name": "nama",
+        "company_type": "it",
+        "stock_exchange": "nse",
+        "total_shares": "502",
+        "cost_per_share": "16",
+        "price_action": "50",
+        "id": 1
+      },
+      {
+        "company_logo": "https://img-getpocket.cdn.mozilla.net/296x148/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F088042eb-8368-43cc-87ea-092286978e94.jpeg",
+        "company_name": "hart",
+        "company_type": "pharma",
+        "stock_exchange": "bse",
+        "total_shares": "51",
+        "cost_per_share": "52",
+        "price_action": "52",
+        "id": 2
+      }
+    ]
+  }
